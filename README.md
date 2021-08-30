@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm DewAsticot</h1>
+<h1 align="center">Hi 👋, I'm DewasSquid</h1>
 
 <h3 align="center">A young full stack developer fan of GUI</h3>
 
