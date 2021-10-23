@@ -14,5 +14,5 @@
 <a href="https://java.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 
-[![DewasSquid's GitHub stats](https://github-readme-stats.vercel.app/api?username=DewasSquid&theme=tokyonight)](https://github.com/DewasSquid/)
+[![DewasSquid's GitHub stats](https://github-readme-stats.vercel.app/api?username=DewasSquid&theme=dark)](https://github.com/DewasSquid/)
 
