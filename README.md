@@ -7,5 +7,4 @@
 <a href="https://java.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DewasSquid&locale=fr&theme=onedark&hide_border=true&card_width=317&langs_count=3)](https://github.com/DewasSquid/)
-[![DewasSquid's GitHub stats](https://github-readme-stats.vercel.app/api?username=DewasSquid&theme=onedark&hide_border=true&locale=fr&hide_rank=true&show_icons=true)](https://github.com/DewasSquid/)
+[![DewasSquid's GitHub stats](https://github-readme-stats.vercel.app/api?username=DewasSquid&theme=onedark&hide_border=true&locale=fr&show_icons=true)](https://github.com/DewasSquid/)
