@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, Je suis DewasSquid</h1>
-<h5 align="center">Développeur passionné de conception logiciel et fan du thème horizon, qui aime les animes minions avec de l'aventure.</h5>
+<h4 align="center">Développeur passionné de conception logiciel et fan du thème horizon, qui aime les animes minions avec de l'aventure.</h4>
 
 <p align="center">
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
