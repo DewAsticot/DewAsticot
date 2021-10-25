@@ -9,5 +9,5 @@
 
 
 ## Mes statistiques GitHub
-[![DewasSquid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DewasSquid&theme=onedark&hide_border=true&locale=fr&border_radius=0)](https://wakatime.com/@DewasSquid)
+[![DewasSquid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DewasSquid&theme=onedark&hide_border=true&locale=fr&border_radius=0&layout=compact)](https://wakatime.com/@DewasSquid)
 [![DewasSquid's GitHub stats](https://github-readme-stats.vercel.app/api?username=DewasSquid&theme=onedark&hide_border=true&locale=fr&show_icons=true&count_private=true&border_radius=0)](https://github.com/DewasSquid/)
