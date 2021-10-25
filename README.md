@@ -9,5 +9,4 @@
 
 
 ## Mes statistiques GitHub
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DewasSquid&langs_count=3&theme=onedark&hide_border=true&locale=fr)](https://github.com/DewasSquid)
 [![DewasSquid's GitHub stats](https://github-readme-stats.vercel.app/api?username=DewasSquid&theme=onedark&hide_border=true&locale=fr&show_icons=true&count_private=true)](https://github.com/DewasSquid/)
