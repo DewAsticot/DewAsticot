@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://java.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="unity" width="40" height="40"/> </a> 
-  <a href="https://https://designer.gravit.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Gravit_Designer_Logo.svg" alt="Gravit Designer" width="40" height="40"/> </a> 
+  <a href="https://designer.gravit.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Gravit_Designer_Logo.svg" alt="Gravit Designer" width="40" height="40"/> </a> 
 </p>
 
 
