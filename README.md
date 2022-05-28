@@ -9,4 +9,4 @@
 
 
 ## Mes statistiques
-[![Languages](https://github-readme-stats.vercel.app/api/wakatime?username=DewasSquid&theme=onedark&hide_border=true&border_radius=0&hide_title=true&langs_count=3)](https://wakatime.com/@DewasSquid)
+[![Languages](https://github-readme-stats.vercel.app/api/wakatime?username=DewasSquid&theme=onedark&hide_border=true&border_radius=0&hide_title=true&langs_count=10)](https://wakatime.com/@DewasSquid)
