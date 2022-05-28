@@ -10,4 +10,4 @@
 
 ## Mes statistiques
 [![Languages](https://github-readme-stats.vercel.app/api/wakatime?username=DewasSquid&theme=onedark&hide_border=true&border_radius=0&hide_title=true&langs_count=7)](https://wakatime.com/@DewasSquid)
-<img src="https://discordapp.com/api/guilds/823213151490146335/widget.png?style=banner3" alt="Discord Banner 3"/>
+<img src="https://discordapp.com/api/guilds/823213151490146335/widget.png?style=banner1" alt="Discord Banner 1"/>
