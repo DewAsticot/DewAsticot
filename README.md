@@ -1,4 +1,4 @@
-<h1 align="center">Salut 🥖<br>I'm DewasSquid</h1>
+<h1 align="center">Salut 🥖<br>I'm Yohan</h1>
 <h4 align="center">Passionate software developer and fan of nord-themed design, who loves walking and mountains.</h4>
 
 <p align="center">
